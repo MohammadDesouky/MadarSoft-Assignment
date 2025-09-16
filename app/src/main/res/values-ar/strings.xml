@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">مهمة مدار سوفت</string>
+
+    <!-- Screen Titles -->
+    <string name="add_user_title">إضافة مستخدم</string>
+    <string name="all_users_title">جميع المستخدمين</string>
+
+    <!-- Add User Screen -->
+    <string name="enter_user_details">أدخل تفاصيل المستخدم</string>
+    <string name="full_name">الاسم الكامل</string>
+    <string name="age">العمر</string>
+    <string name="job_title">المسمى الوظيفي</string>
+    <string name="gender">الجنس</string>
+    <string name="male">ذكر</string>
+    <string name="female">أنثى</string>
+    <string name="save_user">حفظ المستخدم</string>
+    <string name="view_all_users">عرض جميع المستخدمين</string>
+
+    <!-- Display Users Screen -->
+    <string name="add_user">إضافة مستخدم</string>
+    <string name="add_user_content_desc">إضافة مستخدم</string>
+    <string name="no_users_yet">لا يوجد مستخدمون بعد</string>
+    <string name="add_first_user_hint">أضف أول مستخدم للبدء</string>
+    <string name="years_suffix">%d سنة</string>
+    <string name="job_title_label">المسمى الوظيفي</string>
+    <string name="gender_label">الجنس</string>
+
+    <!-- Error Messages -->
+    <string name="error_name_required">الاسم مطلوب</string>
+    <string name="error_age_required">العمر يجب أن يكون رقماً بين 1 و 150</string>
+    <string name="error_job_title_required">المسمى الوظيفي مطلوب</string>
+    <string name="error_gender_required">الجنس مطلوب</string>
+    <string name="error_save_user_failed">فشل في حفظ المستخدم</string>
+    <string name="error_load_users_failed">فشل في تحميل المستخدمين</string>
+
+    <!-- Content Descriptions -->
+    <string name="person_icon_desc">أيقونة الشخص</string>
+</resources>
